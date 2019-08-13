@@ -3,6 +3,6 @@
 <% @grams.each do |gram| %>
 <div>
   <%= gram.message %>
-  <%= image_tag gram.picture, class: 'img-fluid' %>
+  <%= image_tag gram.picture.url.to_s %>
 </div>
 <% end %>
