@@ -1,24 +1,46 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.
 
-Things you may want to cover:
+![](grammable_gram.png)
+![](grammable_gram2.png)
+![](grammable_landing.png)
+![](grammable_landing_zoomed.png)
+![](grammable_login.png)
+![](grammable_newgram.png)
+![](grammable_signup.png)
+![](grammable_userloggedin.png)
 
-* Ruby version
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Built using Ruby on Rails and JavaScript
 
-* Database creation
+## Deployment
 
-* Database initialization
+Deployed using Heroku (https://www.heroku.com)
 
-* How to run the test suite
+## Testing
 
-* Services (job queues, cache servers, search engines, etc.)
+Please use Heroku link for testing and viewing purposes (see below)
 
-* Deployment instructions
+## Built With
 
-* ...
+* Ruby on Rails
+* JavaScript
+
+## Meta
+
+Reba Pipes
+
+Email: pipes.reba@gmail.com
+
+LinkedIn: (https://linkedin.com/in/rebapipes)
+
+GitHub: (https://github.com/rebapipes/grammable)
+
+Heroku: (https://grammable-reba-pipes.herokuapp.com)
+
+Portfolio: (https://rebapipes.netlify.com)
+
+Medium Blog: (https://medium.com/@rebapipes) 
